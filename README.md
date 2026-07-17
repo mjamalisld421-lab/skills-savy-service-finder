@@ -4,7 +4,7 @@ SkillsSavy is a responsive service-discovery experience built from a marketplace
 
 This repository is intentionally a frontend-only Version 1. Provider additions and booking requests use in-memory React state, so the interface demonstrates realistic product behavior without pretending a database, account system, or booking API exists.
 
-**Live demo:** Add your Netlify URL here after deployment.
+[Live demo](https://skills-savy-service-finder.netlify.app) · [GitHub repository](https://github.com/mjamalisld421-lab/skills-savy-service-finder)
 
 ## Product highlights
 
@@ -59,7 +59,7 @@ src/
 ## Setup
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mjamalisld421-lab/skills-savy-service-finder.git
 cd skills-savy-service-finder
 npm install
 npm run dev
